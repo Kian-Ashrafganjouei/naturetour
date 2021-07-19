@@ -1,0 +1,1 @@
+This is a landing page for a nature tour company developed for the sake of practice. 
